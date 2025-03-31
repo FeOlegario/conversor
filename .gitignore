@@ -1,2 +1,5 @@
 env/
 *.heic
+build/
+dist/
+*.spec
